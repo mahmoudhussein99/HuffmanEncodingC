@@ -1,0 +1,7 @@
+﻿  HuffmanEncoding.cpp
+C:\Users\GO\Source\Repos\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(57,25): warning C4101: "previousNode": Unreferenzierte lokale Variable
+C:\Users\GO\Source\Repos\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(498,27): warning C4473: "fscanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+C:\Users\GO\Source\Repos\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(498,27): message : Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+C:\Users\GO\Source\Repos\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(498,27): message : Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+C:\Users\GO\Source\Repos\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(498,27): message : Dieses Argument wird als Puffergröße verwendet.
+  HuffmanEncoding.vcxproj -> C:\Users\GO\Source\Repos\HuffmanEncoding\Debug\HuffmanEncoding.exe
